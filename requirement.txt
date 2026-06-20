@@ -1,2 +1,9 @@
 pandas
 numpy
+python-env
+
+langchain
+langchain-core
+langgraph
+langchain-openai
+langchain-anthropic
