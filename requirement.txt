@@ -10,3 +10,6 @@ langchain-anthropic
 langchain_community
 pypdf 
 pymupdf
+
+chromadb
+onnxruntime
